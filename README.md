@@ -26,6 +26,8 @@ Each subdirectory in this repository imports different submodules that may be of
 
 To get a minimum system running you will need to install the c++ libraries in the protocols directory and the aggregator and world model from the core directory.
 
+A setup guide is included in the *setup-guide" submodule. The setup guide is for a particular demo done with Owl Platform, but you may find it useful to read through some of the installation steps. The demo assumes that you have the Tomcat web server installed.
+
 The contents of each subdirectory are as follows:
 
 ## protocols

@@ -40,3 +40,6 @@
 [submodule "tools/CopyWorldModel"]
 	path = tools/ruby/CopyWorldModel
 	url = https://github.com/OwlPlatform/CopyWorldModel.git
+[submodule "setup-guide"]
+	path = setup-guide
+	url = https://github.com/bfirner/setup-guide

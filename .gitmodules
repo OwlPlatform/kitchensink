@@ -1,0 +1,42 @@
+[submodule "world-model"]
+	path = core/world-model
+	url = https://github.com/OwlPlatform/world-model.git
+[submodule "aggregator"]
+	path = core/aggregator
+	url = https://github.com/OwlPlatform/aggregator.git
+[submodule "cpp-owl-common"]
+	path = protocols/c++/cpp-owl-common
+	url = https://github.com/OwlPlatform/cpp-owl-common.git
+[submodule "protocols/c++/cpp-owl-sensor"]
+	path = protocols/c++/cpp-owl-sensor
+	url = https://github.com/OwlPlatform/cpp-owl-sensor.git
+[submodule "protocols/java/java-owl-common"]
+	path = protocols/java/java-owl-common
+	url = https://github.com/OwlPlatform/java-owl-common.git
+[submodule "protocols/java/java-owl-solver"]
+	path = protocols/java/java-owl-solver
+	url = https://github.com/OwlPlatform/java-owl-solver.git
+[submodule "protocols/java/java-owl-worldmodel"]
+	path = protocols/java/java-owl-worldmodel
+	url = https://github.com/OwlPlatform/java-owl-worldmodel.git
+[submodule "protocols/ruby/libruby"]
+	path = protocols/ruby/libruby
+	url = https://github.com/OwlPlatform/libruby.git
+[submodule "protocols/java/java-owl-sensor"]
+	path = protocols/java/java-owl-sensor
+	url = https://github.com/OwlPlatform/java-owl-sensor.git
+[submodule "tools/cli-wm-browse"]
+	path = tools/java/cli-wm-browse
+	url = https://github.com/romoore/cli-wm-browse.git
+[submodule "examples/ruby/ruby-examples"]
+	path = examples/ruby/ruby-examples
+	url = https://github.com/OwlPlatform/ruby-examples.git
+[submodule "examples/java/java-examples"]
+	path = examples/java/java-examples
+	url = https://github.com/OwlPlatform/java-examples.git
+[submodule "examples/c++/cpp-examples"]
+	path = examples/c++/cpp-examples
+	url = https://github.com/OwlPlatform/cpp-examples.git
+[submodule "tools/CopyWorldModel"]
+	path = tools/ruby/CopyWorldModel
+	url = https://github.com/OwlPlatform/CopyWorldModel.git

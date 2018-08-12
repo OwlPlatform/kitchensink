@@ -43,3 +43,6 @@
 [submodule "setup-guide"]
 	path = setup-guide
 	url = https://github.com/bfirner/setup-guide
+[submodule "protocols/python/libpython"]
+	path = protocols/python/libpython
+	url = https://github.com/OwlPlatform/libpython.git

@@ -46,3 +46,6 @@
 [submodule "protocols/python/libpython"]
 	path = protocols/python/libpython
 	url = https://github.com/OwlPlatform/libpython.git
+[submodule "protocols/c++/cpp-owl-solver"]
+	path = protocols/c++/cpp-owl-solver
+	url = https://github.com/OwlPlatform/cpp-owl-solver
